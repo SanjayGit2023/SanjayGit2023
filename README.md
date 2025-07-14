@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanjay Chettri
 
-<!--
-**SanjayGit2023/SanjayGit2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps & Cloud Engineer** | AWS | Azure | Terraform | Docker | Kubernetes | CI/CD
 
-Here are some ideas to get you started:
+I’m passionate about building scalable, secure, and automated infrastructure. Currently working as an **AWS & DevOps Engineer** at *Sprhava – AI CX Platform*. I specialize in cloud automation, CI/CD pipelines, container orchestration, and infrastructure as code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- **Cloud**: AWS, Azure
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD
+- **Containers & Orchestration**: Docker, Kubernetes, AWS EKS, AKS
+- **IaC & Automation**: Terraform, Ansible
+- **Scripting**: Python, Bash, Boto3
+- **Monitoring**: Prometheus, Grafana, Datadog
+- **Version Control**: Git, GitHub, GitLab
+  
+
+---
+
+## 💼 Experience
+### 🌐 Sprhava – AI CX Platform | *Jul 2024 – Present*
+- Built automated CI/CD pipelines and deployed scalable AWS solutions.
+- Integrated Jenkins, Terraform, Docker, and Lambda functions.
+- Ran AI models on Raspberry Pi 5 with Hailo AI hardware.
+
+### 🧪 Pearlthoughts | *DevOps Intern – Jun 2024 – Jul 2024*
+- Deployed Strapi CMS on ECS Fargate using Terraform and GitHub Actions.
+- Integrated subdomains and Nginx with SSL for frontend/backend.
+
+### 📚 Intellipaat | *Oct 2022 – Nov 2023*
+- Hands-on with Docker, Kubernetes, Terraform, Prometheus, Azure Pipelines.
+
+---
+
+## 📁 Major Projects
+- 🚀 **DevSecOps for MERN** – AWS EKS, Jenkins, ArgoCD, Terraform
+- 💰 **AWS Cost Optimizer** – Lambda (Python + Boto3) to clean stale EBS
+- 🐳 **Java CI/CD** – Jenkins + Kubernetes + Helm + SonarQube
+- 🏗 **Azure AKS Migration** – Voting app using Azure DevOps pipelines
+- 📦 **Strapi on AWS** – Deployed CMS with Route 53 & ALB
+
+---
+
+## 📜 Education
+- 🎓 B.E. in Electronics & Communications
+- 📑 IIT Madras – Advanced Cloud Computing & DevOps
+- 🎯 Microsoft Azure Fundamentals Certified
+
+---
+
+## 📫 Let's Connect
+- Email: [sanjaychettri54@gmail.com](mailto:sanjaychettri54@gmail.com)
+- GitHub: [SanjayGit2023](https://github.com/SanjayGit2023)
+- LinkedIn: [linkedin.com/in/sanjay-chettri-a9b225120](https://linkedin.com/in/sanjay-chettri-a9b225120)
+
+---
+
+> “Committed to continuous learning and solving real-world problems using modern DevOps practices.”
+
