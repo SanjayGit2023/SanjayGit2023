@@ -19,12 +19,12 @@ I’m passionate about building scalable, secure, and automated infrastructure. 
 ---
 
 ## 💼 Experience
-### 🌐 Sprhava – AI CX Platform | *Jul 2024 – Present*
+### 🌐 Sprhava – AI CX Platform | *Jan 2024 – Present*
 - Built automated CI/CD pipelines and deployed scalable AWS solutions.
 - Integrated Jenkins, Terraform, Docker, and Lambda functions.
 - Ran AI models on Raspberry Pi 5 with Hailo AI hardware.
 
-### 🧪 Pearlthoughts | *DevOps Intern – Jun 2024 – Jul 2024*
+### 🧪 Pearlthoughts | *DevOps freelance– Jun 2024 – Jul 2024*
 - Deployed Strapi CMS on ECS Fargate using Terraform and GitHub Actions.
 - Integrated subdomains and Nginx with SSL for frontend/backend.
 
