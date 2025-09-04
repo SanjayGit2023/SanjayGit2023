@@ -2,7 +2,7 @@
 
 🚀 **DevOps & Cloud Engineer** | AWS | Azure | Terraform | Docker | Kubernetes | CI/CD
 
-I’m passionate about building scalable, secure, and automated infrastructure. Currently working as an **AWS & DevOps Engineer** at *Sprhava – AI CX Platform*. I specialize in cloud automation, CI/CD pipelines, container orchestration, and infrastructure as code.
+I’m passionate about building scalable, secure, and automated infrastructure. Currently working as an **Lead Software Engineer** at **Persistent Systems**. I specialize in cloud automation, CI/CD pipelines, container orchestration, and infrastructure as code.
 
 ---
 
@@ -19,7 +19,11 @@ I’m passionate about building scalable, secure, and automated infrastructure. 
 ---
 
 ## 💼 Experience
-### 🌐 Sprhava – AI CX Platform | *Jan 2024 – Present*
+
+###    Persistent Systems(Lead software Engineer) | *Aug 2025 - Present
+
+
+### 🌐 Sprhava – AI CX Platform | *Jan 2024 – Aug 2025*
 - Built automated CI/CD pipelines and deployed scalable AWS solutions.
 - Integrated Jenkins, Terraform, Docker, and Lambda functions.
 - Ran AI models on Raspberry Pi 5 with Hailo AI hardware.
